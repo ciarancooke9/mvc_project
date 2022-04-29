@@ -2,9 +2,9 @@
 
 //DB params
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '123456');
-define('DB_NAME', 'mvc');
+define('DB_USER', '_YOUR_USER_');
+define('DB_PASS', '_YOUR_PASS_');
+define('DB_NAME', '_YOUR_DBNAME');
 
 
 
@@ -12,7 +12,7 @@ define('DB_NAME', 'mvc');
 define('APPROOT', dirname(dirname(__FILE__)));
 
 // URL Root
-define('URLROOT', 'http://localhost/mvc_project/mvc_project');
+define('URLROOT', '_YOUR_URL_');
 
 //Site Name
-define('SITENAME', 'mvc_project');
+define('SITENAME', '_YOUR_SITE_NAME');
